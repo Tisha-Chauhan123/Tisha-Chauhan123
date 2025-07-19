@@ -11,7 +11,7 @@
 
 - 🖥️ Computer Engineering Student  
 - 💡 Passionate about **front-end web development**
-- 🛠️ Skills: **HTML**, **CSS**, **JavaScript**
+- 🛠️ Skills: **HTML**, **CSS**, **JavaScript**, **React**
 - 😄 GitHub once showed me:  
   <i>“This is not the web page you are looking for”</i> — a fun Star Wars reference!
 - 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/tisha-chauhan-29b6ba314)
@@ -23,6 +23,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
+![React](https://img.shields.io/badge/React-F7DF1E?style=flat&logo=react&logoColor=222)
 
 ---
 
