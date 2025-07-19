@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tisha-Chauhan123&show_icons=true&theme=default" alt="Tisha's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha-Chauhan123&layout=compact&theme=radical&langs_count=6" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha-Chauhan123&layout=compact&theme=radical&langs_count=7" height="150"/>
 </p>
 
 ---
